@@ -1,0 +1,9 @@
+img {
+  width: 300;
+  object-fit: contain;
+  border: 1px solid #000;
+}
+
+.thumbnail {
+  margin-right: 30px;
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "id": "abc123",
+        "name": "Countdown1",
+        "duration": "10 seconds",
+        "postername": "Countdown1.jpg"
+    },
+    {
+        "id": "xyz123",
+        "name": "Countdown2",
+        "duration": "10 seconds",
+        "postername": "Countdown2.jpg"
+    }
+]
